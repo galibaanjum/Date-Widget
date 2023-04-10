@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body {
+	background-color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+}
+
+#widget {
+  color: rgba(247, 131, 139, 0.342);
+	display: flex;
+	font-size: 18pt;
+	padding: 5px;
+	justify-content: left;
+	line-height: 1.5;
+	height: 85%;
+	flex-direction: row;
+}
+
+#widgetContainer {
+	display: flex;
+	align-items: flex-start;
+}
+
+#date {
+	font-size: 12pt;
+}
